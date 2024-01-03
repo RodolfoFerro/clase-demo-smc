@@ -20,4 +20,4 @@
 | CONTENIDO | LINK DE ACCESO DIRECTO |
 | --------- | ---------------------- |
 | Slides    | [![Link](https://img.shields.io/badge/Link%20a%20slides-8A2BE2)](https://docs.google.com/presentation/d/e/2PACX-1vRA5l5JwodghZs5_WfFcyWjEjPkwSaXczGTXg_Bx80Qmj2bYudftAiUz5q3g7IllcJheDuLPdHJbhgH/pub?start=false&loop=false&delayms=3000) |
-| Notebook  | [![Link](https://img.shields.io/badge/Link%20a%20notebook-8A2BE2)]() |
+| Notebook  | [![Link](https://img.shields.io/badge/Link%20a%20notebook-8A2BE2)](https://github.com/RodolfoFerro/clase-demo-smc/blob/main/notebooks/sesion_05.ipynb) |https://github.com/RodolfoFerro/clase-demo-smc/blob/main/notebooks/sesion_05.ipynb
