@@ -55,13 +55,9 @@ El material de las sesiones se encuentra en formato de notebooks de [Jupyter](ht
 
 | CONTENIDO | LINK DE ACCESO DIRECTO |
 | --------- | ---------------------- |
-| Sesión 01 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
-| Sesión 02 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
-| Sesión 03 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
-| Sesión 04 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
-| Sesión 05 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
-| Sesión 06 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
-
+| Sesiones  | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/sesiones/README.md) |
+| Notebooks | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/notebooks/README.md) |
+| Tareas    | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/tareas/README.md) |
 
 ---
 
